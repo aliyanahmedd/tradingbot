@@ -1,0 +1,38 @@
+# === SECRETS — NEVER COMMIT THESE ===
+.env
+
+# === PYTHON CACHE FILES ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# === VIRTUAL ENVIRONMENT FOLDERS ===
+venv/
+env/
+.venv/
+.env/
+
+# === LOG FILES ===
+logs/
+
+# === DATABASE FILES ===
+*.db
+*.sqlite
+*.sqlite3
+
+# === OS FILES ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === IDE / EDITOR FILES ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === DISTRIBUTION / BUILD ===
+dist/
+build/
+*.egg-info/
