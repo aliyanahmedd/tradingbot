@@ -22,13 +22,6 @@ MT5_PASSWORD = os.getenv("MT5_PASSWORD", "")         # Your MT5 account password
 MT5_SERVER   = os.getenv("MT5_SERVER", "")           # Your broker's server name
 
 # ==============================================================================
-# TELEGRAM ALERTS
-# ==============================================================================
-
-TELEGRAM_TOKEN   = os.getenv("TELEGRAM_TOKEN", "")   # Your Telegram bot token
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "") # Your Telegram chat/user ID
-
-# ==============================================================================
 # TRADING SYMBOLS
 # Each symbol in this list will be scanned for signals every cycle
 # ==============================================================================
