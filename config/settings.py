@@ -30,6 +30,8 @@ SYMBOLS = [
     "EURUSD",
     "GBPUSD",
     "XAUUSD",  # Gold
+    "XAGUSD",  # Silver
+    "XPTUSD",  # Platinum
     "WTI",     # Crude Oil (WTI on MetaQuotes-Demo)
 ]
 
