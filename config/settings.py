@@ -37,7 +37,7 @@ SYMBOLS = [
     "EURUSD",
     "GBPUSD",
     "XAUUSD",  # Gold
-    "USOIL",   # Crude Oil (name may vary by broker — check yours in MT5)
+    "WTI",     # Crude Oil (WTI on MetaQuotes-Demo)
 ]
 
 # ==============================================================================
